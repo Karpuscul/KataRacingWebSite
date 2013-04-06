@@ -1,4 +1,4 @@
 KataRacingWebSite
 =================
 
-Code of the project website, published to kataracing.com
+Source code of www.kataracing.com
