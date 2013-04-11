@@ -1,0 +1,2 @@
+kataracing.com.s3-website-us-east-1.amazonaws.com
+www.kataracing.com.s3-website-ap-southeast-2.amazonaws.com

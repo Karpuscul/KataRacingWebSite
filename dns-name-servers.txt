@@ -1,0 +1,9 @@
+Amazon:
+ns-609.awsdns-12.net
+ns-1980.awsdns-55.co.uk
+ns-348.awsdns-43.com
+ns-1176.awsdns-19.org
+
+CrazyDomains:
+ns1.crazydomains.com
+ns2.crazydomains.com
