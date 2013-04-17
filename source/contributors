@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kata Racing: Contributors</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/kataracing.png" sizes="32x32" type="image/png">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+
+    <style type="text/css">
+      body {
+        padding-bottom: 80px;
+      }
+      footer {
+        text-align: center;
+      }
+      .people .span3 {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+      }
+      .people h2 {
+        font-weight: normal;
+      }
+      .people .span3 p {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+    </style>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-5857042-6', 'kataracing.com');
+      ga('send', 'pageview');
+    </script>
+  </head>
+
+  <body>
+
+    <div class="container people">
+
+      <div class="row">
+        <div class="span3">
+          <img class="img-circle" src="http://maps.googleapis.com/maps/api/staticmap?center=Bellevue,WA&zoom=7&size=140x140&sensor=false">
+          <h2>Tagir Magomedov</h2>
+          <p><a class="btn" href="https://github.com/Groz#">View on GitHub &raquo;</a></p>
+        </div>
+        <div class="span3">
+          <img class="img-circle" src="http://maps.googleapis.com/maps/api/staticmap?center=Moscow,Russia&zoom=7&size=140x140&sensor=false">
+          <h2>Sergey Shutka</h2>
+          <p><a class="btn" href="https://github.com/Some1Nebo">View on GitHub &raquo;</a></p>
+        </div>
+        <div class="span3">
+          <img class="img-circle" src="http://maps.googleapis.com/maps/api/staticmap?center=Moscow,Russia&zoom=7&size=140x140&sensor=false">
+          <h2>Vasily Kornienko</h2>
+          <p><a class="btn" href="https://github.com/Oglan">View on GitHub &raquo;</a></p>
+        </div>
+        <div class="span3">
+          <img class="img-circle" src="http://maps.googleapis.com/maps/api/staticmap?center=Sydney,Australia&zoom=7&size=140x140&sensor=false">
+          <h2>Oleg Sakharov</h2>
+          <p><a class="btn" href="https://github.com/Karpuscul">View on GitHub &raquo;</a></p>
+        </div>
+      </div>
+    
+      <hr>
+
+      <footer>
+        <p>&copy; Kata Racing 2013</p>
+      </footer>
+
+    </div>
+
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+  </body>
+</html>
